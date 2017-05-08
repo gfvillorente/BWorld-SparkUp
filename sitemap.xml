@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+				xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+				xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+				xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+	<url>
+		<loc>http://sparkup.ph/about/</loc>
+		<lastmod>2017-04-15T14:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/Your-negative-posts-on-social-media-may-hurt-your-job-search/</loc>
+		<lastmod>2017-04-08T14:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-04-08T14:00:00+08:00</news:publication_date>
+			<news:title>Your negative posts on social media may hurt your job search</news:title>
+			<news:keywords>social media, job search, recruitment, image, hiring</news:keywords>
+		</news:news>
+		<image:image>
+			<image:loc>http://sparkup.ph/Your-negative-posts-on-social-media-may-hurt-your-job-search/img/Negative-posts-on-social-media-affect-job-search.gif</image:loc>
+			<image:caption>Negative posts on social media affect job search</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/Your-negative-posts-on-social-media-may-hurt-your-job-search/img/Online-stalking.gif</image:loc>
+			<image:caption>Online stalking</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/JIA-MORADO-Captain-in-the-court-rookie-in-business/</loc>
+		<lastmod>2017-04-08T18:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-04-08T18:00:00+08:00</news:publication_date>
+			<news:title>JIA MORADO: Captain in the court, rookie in business</news:title>
+			<news:keywords>Jia Morado, entrepreneurship, Lady Eagles, Pillow Play, pillow business</news:keywords>
+		</news:news>
+		<image:image>
+			<image:loc>http://sparkup.ph/JIA-MORADO-Captain-in-the-court-rookie-in-business/img/Jia-Morado-student-athlete-startup-entrepreneur.gif</image:loc>
+			<image:caption>Jia Morado from Volleyball to Business</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/JIA-MORADO-Captain-in-the-court-rookie-in-business/img/Jia-Morado-Pillow-Play-Hamburger.gif</image:loc>
+			<image:caption>Jia Morado and the Pillow Play Hamburger</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/JIA-MORADO-Captain-in-the-court-rookie-in-business/img/Jia-Morado-Pillow-Play-emoji.gif</image:loc>
+			<image:caption>Jia Morado featuring her Pillow Play Emojis</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/A-walk-in-the-Food-Park/</loc>
+		<lastmod>2017-04-10T16:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-04-10T16:00:00+08:00</news:publication_date>
+			<news:title>A Walk in the Food Park</news:title>
+			<news:keywords>Food and beverage, MSMEs, Business, Establishment, Entrepreneurship</news:keywords>
+		</news:news>
+		<image:image>
+			<image:loc>http://sparkup.ph/A-walk-in-the-Food-Park/img/Streat-Maginhawa-Food-Park.jpg</image:loc>
+			<image:caption>Streat Maginhawa Food Park Collage</image:caption>
+			<image:geo_location>91 Maginhawa, Diliman, Quezon City, 1101 Metro Manila, Philippines</image:geo_location>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/A-walk-in-the-Food-Park/img/Carnival-Food-Park.jpg</image:loc>
+			<image:caption>Carnival Marikina Food Park Collage</image:caption>
+			<image:geo_location>87 Mayor Gil Fernando Ave, Marikina, Metro Manila, Philippines</image:geo_location>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/A-walk-in-the-Food-Park/img/The-Yard-Food-Park.jpg</image:loc>
+			<image:caption>The Yard Food Park Collage</image:caption>
+			<image:geo_location>83 Xavierville Ave, Quezon City, Metro Manila, Philippines</image:geo_location>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<video:video>
+			<video:thumbnail_loc>http://sparkup.ph/A-walk-in-the-Food-Park/img/Streat-Maginhawa-Food-Park-Video.gif</video:thumbnail_loc>
+			<video:title>Hyperlapse Video of South Streat Collage</video:title>
+			<video:description>Timelapse of a walk in the South Streat Food Park</video:description>
+			<video:content_loc>http://sparkup.ph/A-walk-in-the-Food-Park/img/Streat-Maginhawa-Food-Park-Video.mp4</video:content_loc>
+			<video:duration>8</video:duration>
+			<video:rating>5</video:rating> 
+			<video:publication_date>2017-04-10T16:00:00+08:00</video:publication_date>
+			<video:family_friendly>yes</video:family_friendly>   
+			<video:tag>Food and beverage, MSMEs, Business, Establishment, Entrepreneurship, Food Park</video:tag>
+			<video:category>Business</video:category>
+			<video:uploader info="http://sparkup.ph/">SparkUp</video:uploader>
+			<video:live>no</video:live>
+		</video:video>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/Do-companies-still-look-at-an-applicants-grades/</loc>
+		<lastmod>2017-04-11T20:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-04-11T20:00:00+08:00</news:publication_date>
+			<news:title>Do companies still look at an applicant's grades?</news:title>
+			<news:keywords>hiring, recruitment, grades, job search, job</news:keywords>
+		</news:news>
+		<image:image>
+			<image:loc>http://sparkup.ph/Do-companies-still-look-at-an-applicants-grades/img/Grades-resume-application.png</image:loc>
+			<image:caption>Applicants with varying height that are correlated to their corresponding grades</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/Do-companies-still-look-at-an-applicants-grades/img/Resume-Application.gif</image:loc>
+			<image:caption>An applicant's resume</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/Tradition-saves-the-business-of-religious-items/</loc>
+		<lastmod>2017-04-12T12:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-04-12T12:00:00+08:00</news:publication_date>
+			<news:title>Tradition saves the business of religious items</news:title>
+			<news:keywords>holy week, religious artifacts, Catholic, religion, business</news:keywords>
+		</news:news>
+		<image:image>
+			<image:loc>http://sparkup.ph/Tradition-saves-the-business-of-religious-items/img/Traditional-Religious-Items.jpg</image:loc>
+			<image:caption>Religious items for sale</image:caption>
+			<image:geo_location>1660, Tayuman Street, Santa Cruz, Manila, 1000 Metro Manila</image:geo_location>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<video:video>
+			<video:thumbnail_loc>http://sparkup.ph/Tradition-saves-the-business-of-religious-items/img/Black-Nazarene-Store.gif</video:thumbnail_loc>
+			<video:title>Black Nazarene</video:title>
+			<video:description>Selling of the Black Nazarene</video:description>
+			<video:content_loc>http://sparkup.ph/Tradition-saves-the-business-of-religious-items/img/Black-Nazarene-Store.mp4</video:content_loc>
+			<video:duration>7</video:duration>
+			<video:rating>5</video:rating> 
+			<video:publication_date>2017-04-12T12:00:00+08:00</video:publication_date>
+			<video:family_friendly>yes</video:family_friendly>   
+			<video:tag>holy week, religious artifacts, Catholic, religion, business</video:tag>
+			<video:category>Business</video:category>
+			<video:uploader info="http://sparkup.ph/">SparkUp</video:uploader>
+			<video:live>no</video:live>
+		</video:video>
+		<video:video>
+			<video:thumbnail_loc>http://sparkup.ph/Tradition-saves-the-business-of-religious-items/img/Man-Store-Religious-Artifacts.gif</video:thumbnail_loc>
+			<video:title>Old Man by the Religious Store</video:title>
+			<video:description>An old man takes his chances on selling a religious artifact for the upcoming holy week.</video:description>
+			<video:content_loc>http://sparkup.ph/Tradition-saves-the-business-of-religious-items/img/Man-Store-Religious-Artifacts.mp4</video:content_loc>
+			<video:duration>22</video:duration>
+			<video:rating>5</video:rating> 
+			<video:publication_date>2017-04-12T12:00:00+08:00</video:publication_date>
+			<video:family_friendly>yes</video:family_friendly>   
+			<video:tag>holy week, religious artifacts, Catholic, religion, business</video:tag>
+			<video:category>Business</video:category>
+			<video:uploader info="http://sparkup.ph/">SparkUp</video:uploader>
+			<video:live>no</video:live>
+		</video:video>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/Millennials-are-changing-the-game-in-the-Philippine-Stock-Exchange/</loc>
+		<lastmod>2017-04-17T12:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-04-17T12:00:00+08:00</news:publication_date>
+			<news:title>Millennials are changing the game in the Philippine Stock Exchange</news:title>
+			<news:keywords>Philippine Stock Exchange, stock market, stocks, investments, PSE</news:keywords>
+		</news:news>
+		<image:image>
+			<image:loc>http://sparkup.ph/Millennials-are-changing-the-game-in-the-Philippine-Stock-Exchange/img/Stock-Market-Game-Millennials.png</image:loc>
+			<image:caption>Millennials at the Philippine Stock Exchange</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/Millennials-are-changing-the-game-in-the-Philippine-Stock-Exchange/img/Millennials-on-a-stock-market-game.png</image:loc>
+			<image:caption>Millennials are changing the game in the Philippine Stock Exchange</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/Big-companies-are-expanding-in-Central-Luzon-Heres-why-you-should-apply/</loc>
+		<lastmod>2017-04-20T12:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-04-20T12:00:00+08:00</news:publication_date>
+			<news:title>Big companies are expanding in Central Luzon. Here's why you should apply.</news:title>
+			<news:keywords>job search, Central Luzon, decentralization, Philippines, Metro Manila, Region III</news:keywords>
+		</news:news>
+		<image:image>
+			<image:loc>http://sparkup.ph/Big-companies-are-expanding-in-Central-Luzon-Heres-why-you-should-apply/img/Salary-people-jobs-cash-money-skills-graduate-requirements.jpg</image:loc>
+			<image:caption>Job Opportunities at Central Luzon</image:caption>
+			<image:geo_location>Central Luzon Region Philippines</image:geo_location>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/Big-companies-are-expanding-in-Central-Luzon-Heres-why-you-should-apply/img/Central-luzon-map-peso-money.jpg</image:loc>
+			<image:caption>The money is now at the Central Luzon Region</image:caption>
+			<image:geo_location>Central Luzon Region Philippines</image:geo_location>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/Big-companies-are-expanding-in-Central-Luzon-Heres-why-you-should-apply/img/Attitude-people-requirements-humility-yellow.jpg</image:loc>
+			<image:caption>Equal Opportunity for All Applicants in the Central Luzon Region</image:caption>
+			<image:geo_location>Central Luzon Region Philippines</image:geo_location>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/Big-companies-are-expanding-in-Central-Luzon-Heres-why-you-should-apply/img/Discriminate-skills-light-bulb.jpg</image:loc>
+			<image:caption>Applicants are not discriminated in the Central Luzon Region</image:caption>
+			<image:geo_location>Central Luzon Region Philippines</image:geo_location>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/How-a-canned-food-company-promotes-out-of-the-box-cooking/</loc>
+		<lastmod>2017-04-21T12:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-04-21T12:00:00+08:00</news:publication_date>
+			<news:title>How a canned food company promotes out-of-the-box cooking</news:title>
+			<news:keywords>food, entrepreneurship, restaurant, culinary, business</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/Slay-the-workday-with-Coachella-inspired-makeup/</loc>
+		<lastmod>2017-04-21T21:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-04-21T21:00:00+08:00</news:publication_date>
+			<news:title>Slay the workday with Coachella-inspired makeup</news:title>
+			<news:keywords>women, makeup, coachella, filipino, blogger</news:keywords>
+		</news:news>
+		<image:image>
+			<image:loc>http://sparkup.ph/Slay-the-workday-with-Coachella-inspired-makeup/img/cover-coachella-maybelline-concealer-lips-makeup-eyebrows-lipstick-brush-eyeliner-janina.jpg</image:loc>
+			<image:caption>Janina's Natural Makeup Look at Maybelline New York It Girl</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/Big-companies-are-expanding-in-Central-Luzon-Heres-why-you-should-apply/</loc>
+		<lastmod>2017-04-20T12:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-04-20T12:00:00+08:00</news:publication_date>
+			<news:title>Big companies are expanding in Central Luzon. Here's why you should apply.</news:title>
+			<news:keywords>job search, Central Luzon, decentralization, Philippines, Metro Manila, Region III</news:keywords>
+		</news:news>
+		<image:image>
+			<image:loc>http://sparkup.ph/Big-companies-are-expanding-in-Central-Luzon-Heres-why-you-should-apply/img/Salary-people-jobs-cash-money-skills-graduate-requirements.jpg</image:loc>
+			<image:caption>Region III mapped with skills, money, and academic requirements for the next big jobs</image:caption>
+			<image:geo_location>Central Luzon, Philippines</image:geo_location>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/sparktionary/stock-market/</loc>
+		<lastmod>2017-04-24T14:00:00+08:00</lastmod>
+		<changefreq>always</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/Three-people-that-tech-startup-companies-must-prepare-for/</loc>
+		<lastmod>2017-04-25T18:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-04-25T18:00:00+08:00</news:publication_date>
+			<news:title>Three people that tech startup companies must prepare for.</news:title>
+			<news:keywords>startup, tech startup, employees, clients, investors</news:keywords>
+		</news:news>
+		<image:image>
+			<image:loc>http://sparkup.ph/Three-people-that-tech-startup-companies-must-prepare-for/img/cover-startup-techstartup-employees-clients-investors-people.jpg</image:loc>
+			<image:caption>Tech startup companies should prepare for their employees, clients, and investors</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/How-the-worlds-largest-food-company-fosters-a-Gen-Z-friendly-environment/</loc>
+		<lastmod>2017-04-26T18:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-04-26T18:00:00+08:00</news:publication_date>
+			<news:title>How the world's largest food company fosters a Gen Z-friendly environment.</news:title>
+			<news:keywords>gen z, centennials, work, workforce</news:keywords>
+		</news:news>
+		<image:image>
+			<image:loc>http://sparkup.ph/How-the-worlds-largest-food-company-fosters-a-Gen-Z-friendly-environment/img/generationz-centennials-people-barcode-laptop-mouse-z-cellphone-mobilephone-collage.jpg</image:loc>
+			<image:caption>Gen z environment surrounded with the latest technologies</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/How-the-worlds-largest-food-company-fosters-a-Gen-Z-friendly-environment/img/generationz-centennials-laptop-imac-tablet-phone-multitasker.jpg</image:loc>
+			<image:caption>Employers are aware of the high-functioning and multitasking of using various technologies by the Gen z</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/Bb-Pilipinas-candidates-who-manage-their-own-businesses/</loc>
+		<lastmod>2017-04-27T19:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-04-27T19:00:00+08:00</news:publication_date>
+			<news:title>Bb. Pilipinas candidates who manage their own businesses</news:title>
+			<news:keywords>pageant, women, cafe, accountant, restaurateur, fashion, designer</news:keywords>
+		</news:news>
+		<image:image>
+			<image:loc>http://sparkup.ph/Bb-Pilipinas-candidates-who-manage-their-own-businesses/img/cover-binibiningpilipinas-girl-woman-business-candidate-collage.jpg</image:loc>
+			<image:caption>Some of the noteworthy Binibining Pilipinas candidates who happen to have their own business</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/Bb-Pilipinas-candidates-who-manage-their-own-businesses/img/danamarasigan-binibiningpilipinas-girl-woman-business-candidate-clothes.jpg</image:loc>
+			<image:caption>Dana Marasigan a Binibining Pilipinas Candidate with clothing business</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/Bb-Pilipinas-candidates-who-manage-their-own-businesses/img/leitzang-binibiningpilipinas-girl-woman-business-candidate-accounting-calculator-excel.jpg</image:loc>
+			<image:caption>Leitz Ang a Binibining Pilipinas Candidate who owns an Auditing Firm</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/Bb-Pilipinas-candidates-who-manage-their-own-businesses/img/anasturias-binibiningpilipinas-girl-woman-business-candidate-cafe-coffee-sweets-receipts.jpg</image:loc>
+			<image:caption>Anna Assturias a Binibining Pilipinas Candidate who is also a Restoraeur</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/Money-advice-from-an-employee-and-an-entrepreneur/</loc>
+		<lastmod>2017-05-02T12:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-05-02T12:00:00+08:00</news:publication_date>
+			<news:title>Money advice from an employee and an entrepreneur</news:title>
+			<news:keywords>money, mindset, book, employee, entrepreneur, finance</news:keywords>
+		</news:news>
+		<image:image>
+			<image:loc>http://sparkup.ph/Money-advice-from-an-employee-and-an-entrepreneur/img/money-grows-on-trees-book-launch-Clarissa-Serina-de-la-Paz-Cover.gif</image:loc>
+			<image:caption>Money grows on Trees</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/Money-advice-from-an-employee-and-an-entrepreneur/img/money-grows-on-trees-book-launch-Clarissa-Serina-de-la-Paz-Book.gif</image:loc>
+			<image:caption>Book launching of Money grows on Trees at Fully Booked</image:caption>
+			<image:geo_location>Ground Floor, B6, Bonifacio High Street, Taguig, Metro Manila, Philippines</image:geo_location>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/Theres-a-free-way-to-study-in-land-of-the-free/</loc>
+		<lastmod>2017-05-03T12:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-05-03T12:00:00+08:00</news:publication_date>
+			<news:title>There's a free way to study in 'land of the free'</news:title>
+			<news:keywords>CHED, PAEF, scholarship, United States, US Ambassador, Patricia Licuanan, Sung Kim</news:keywords>
+		</news:news>
+		<image:image>
+			<image:loc>http://sparkup.ph/Theres-a-free-way-to-study-in-land-of-the-free/img/cover-man-woman-blacktoga-diploma-Americanflag.jpg</image:loc>
+			<image:caption>There's a free way to study in 'land of the free'</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://sparkup.ph/Easing-the-damage-of-the-fashion-industry/</loc>
+		<lastmod>2017-05-04T19:00:00+08:00</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<news:news>
+			<news:publication>
+				<news:name>SparkUp</news:name>
+				<news:language>en</news:language>
+			</news:publication>
+			<news:genres>UserGenerated</news:genres>
+			<news:publication_date>2017-05-04T19:00:00+08:00</news:publication_date>
+			<news:title>Easing the damage of the fashion industry</news:title>
+			<news:keywords>fashion, environment, ethical fashion, trashion, fashion revolution, Aboitiz, francis sollano</news:keywords>
+		</news:news>
+		<image:image>
+			<image:loc>http://sparkup.ph/Easing-the-damage-of-the-fashion-industry/img/Fashion-revolution-green-fashion.jpg</image:loc>
+			<image:caption>Fashion Revolution Philippines asks 'Who made my clothes?'</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/Easing-the-damage-of-the-fashion-industry/img/Sofa-aboitiz-green-fashion.png</image:loc>
+			<image:caption>School of Fashion and the Arts (SoFA) Design Institute at the Aboitiz Foundation's Green Fashion Revolution 2017</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/Easing-the-damage-of-the-fashion-industry/img/CSB-aboitiz-green-fashion.png</image:loc>
+			<image:caption>De La Salle-College of Saint Benilde (CSB) at the Aboitiz Foundation's Green Fashion Revolution 2017</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+		<image:image>
+			<image:loc>http://sparkup.ph/Easing-the-damage-of-the-fashion-industry/img/APC-aboitiz-green-fashion.png</image:loc>
+			<image:caption>Asia Pacific College (APC) at the Aboitiz Foundation's Green Fashion Revolution 2017</image:caption>
+			<image:license>http://sparkup.ph/</image:license>
+		</image:image>
+	</url>
+</urlset>

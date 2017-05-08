@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://sparkup.ph/sitemap.xml
