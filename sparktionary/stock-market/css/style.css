@@ -1,0 +1,845 @@
+/* Raleway Fonts */
+@font-face {
+	font-family: 'Raleway';
+	src: url('./Raleway/Raleway-Regular.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Thin';
+	src: url('./Raleway/Raleway-Thin.ttf');
+}
+@font-face {
+	font-family: 'Raleway-ThinItalic';
+	src: url('./Raleway/Raleway-ThinItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-ExtraLight';
+	src: url('./Raleway/Raleway-ExtraLight.ttf');
+}
+@font-face {
+	font-family: 'Raleway-ExtraLightItalic';
+	src: url('./Raleway/Raleway-ExtraLightItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Light';
+	src: url('./Raleway/Raleway-Light.ttf');
+}
+@font-face {
+	font-family: 'Raleway-LightItalic';
+	src: url('./Raleway/Raleway-LightItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Italic';
+	src: url('./Raleway/Raleway-Italic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Medium';
+	src: url('./Raleway/Raleway-Medium.ttf');
+}
+@font-face {
+	font-family: 'Raleway-MediumItalic';
+	src: url('./Raleway/Raleway-MediumItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-SemiBold';
+	src: url('./Raleway/Raleway-SemiBold.ttf');
+}
+@font-face {
+	font-family: 'Raleway-SemiBoldItalic';
+	src: url('./Raleway/Raleway-SemiBoldItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Bold';
+	src: url('./Raleway/Raleway-Bold.ttf');
+}
+@font-face {
+	font-family: 'Raleway-BoldItalic';
+	src: url('./Raleway/Raleway-BoldItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-ExtraBold';
+	src: url('./Raleway/Raleway-ExtraBold.ttf');
+}
+@font-face {
+	font-family: 'Raleway-ExtraBoldItalic';
+	src: url('./Raleway/Raleway-ExtraBoldItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Black';
+	src: url('./Raleway/Raleway-Black.ttf');
+}
+@font-face {
+	font-family: 'Raleway-BlackItalic';
+	src: url('./Raleway/Raleway-BlackItalic.ttf');
+}
+/* OpenSans Fonts */
+@font-face {
+	font-family: 'OpenSans';
+	src: url('./OpenSans/OpenSans-Regular.ttf');
+}
+@font-face {
+	font-family: 'OpenSans-Light';
+	src: url('./OpenSans/OpenSans-Light.ttf');
+}
+@font-face {
+	font-family: 'OpenSans-LightItalic';
+	src: url('./OpenSans/OpenSans-LightItalic.ttf');
+}
+@font-face {
+	font-family: 'OpenSans-Italic';
+	src: url('./OpenSans/OpenSans-Italic.ttf');
+}
+@font-face {
+	font-family: 'OpenSans-SemiBold';
+	src: url('./OpenSans/OpenSans-Semibold.ttf');
+}
+@font-face {
+	font-family: 'OpenSans-SemiBoldItalic';
+	src: url('./OpenSans/OpenSans-SemiboldItalic.ttf');
+}
+@font-face {
+	font-family: 'OpenSans-Bold';
+	src: url('./OpenSans/OpenSans-Bold.ttf');
+}
+@font-face {
+	font-family: 'OpenSans-BoldItalic';
+	src: url('./OpenSans/OpenSans-BoldItalic.ttf');
+}
+@font-face {
+	font-family: 'OpenSans-ExtraBold';
+	src: url('./OpenSans/OpenSans-ExtraBold.ttf');
+}
+@font-face {
+	font-family: 'OpenSans-ExtraBoldItalic';
+	src: url('./OpenSans/OpenSans-ExtraBoldItalic.ttf');
+}
+body {
+	margin: 0px;
+	background-color: rgb(235,180,4);
+	width: 100%;
+	height: 100vh;
+}
+img {
+	-webkit-user-select: none;
+  -webkit-touch-callout: none;
+}
+/* header */
+header {
+	border-top: 2px solid #FFCC00;
+	border-bottom: 1px solid #EEEEEE;
+	background-color: white;
+	position: fixed;/*relative;*/
+	z-index: 2;
+	top: 0px;
+	left: 0px;
+	display: block;
+	width: 100%;
+}
+#logo {
+	width: 140px;
+	height: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+#signin {
+	float: right;
+	text-decoration: none;
+	color: #737373;
+	font-family: 'Raleway-Thin';
+	font-size: 14px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-left: 1px solid #EEEEEE;
+	position: fixed;/*relative;*/
+	/*top: -55px;*/
+	top: 10px;
+	right: 0px;
+	z-index: 3;
+	-webkit-user-select: none;
+  -webkit-touch-callout: none;
+  background-color: white;
+}
+#signin:hover {
+	background-color: #EEEEEE;
+}
+#signin:focus {
+	background-color: #EEEEEE;
+}
+#signin:active {
+	background-color: #DDDDDD;
+}
+#signin:visited {
+  background-color: white;
+}
+#menu {
+	display: none;
+}
+#community {
+	display: initial;
+	float: right;
+	text-decoration: none;
+	background: url(../img/Community%20Button.png);
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-position: 10px 15px;
+	width: 30px;
+	height: 30px;
+	padding-right: 20px;
+	padding-left: 0px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	position: fixed;
+	top: 2px;
+	right: 91px;
+	z-index: 3;
+	-webkit-user-select: none;
+	-webkit-touch-callout: none;
+	background-color: white;
+}
+#community:hover {
+	background: url(../img/Community%20Button%20Active.png);
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-position: 10px 15px;
+	background-color: #EEEEEE;
+}
+#community:focus {
+	background: url(../img/Community%20Button%20Active.png);
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-position: 10px 15px;
+	background-color: #EEEEEE;
+}
+#community:active {
+	background: url(../img/Community%20Button%20Active.png);
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-position: 10px 15px;
+	background-color: #DDDDDD;
+}
+#community:visited {
+	background: url(../img/Community%20Button.png);
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-position: 10px 15px;
+	background-color: white;
+}
+#sparktionary {
+	display: initial;
+	float: right;
+	text-decoration: none;
+	background: url(../img/Sparktionary%20Button.png);
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-position: 10px 15px;
+	width: 30px;
+	height: 30px;
+	padding-right: 15px;
+	padding-left: 0px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	position: fixed;
+	top: 2px;
+	right: 135px;
+	z-index: 3;
+	-webkit-user-select: none;
+	-webkit-touch-callout: none;
+	background-color: white;
+}
+#sparktionary:hover {
+	background: url(../img/Sparktionary%20Button%20Active.png);
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-position: 10px 15px;
+	background-color: #EEEEEE;
+}
+#sparktionary:focus {
+	background: url(../img/Sparktionary%20Button%20Active.png);
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-position: 10px 15px;
+	background-color: #EEEEEE;
+}
+#sparktionary:active {
+	background: url(../img/Sparktionary%20Button%20Active.png);
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-position: 10px 15px;
+	background-color: #DDDDDD;
+}
+#sparktionary:visited {
+	background: url(../img/Sparktionary%20Button.png);
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-position: 10px 15px;
+	background-color: white;
+}
+#search {
+	display: initial;
+	float: right;
+	position: fixed;
+	top: 17px;
+	right: 180px;
+	z-index: 3;
+}
+#searchButton {
+	width: 30px;
+	height: auto;
+}
+#searchText {
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	border-radius: 0px;
+	-webkit-appearance: none;
+	padding-left: 5px;
+	margin: 0px;
+	width: 170px;
+	height: 30px;
+	position: relative;
+	top: -11px;
+	outline: none;
+}
+#searchText[placeholder] {
+	color: gray;
+	font-family: 'Raleway-Italic';
+	font-size: 12px;
+}
+#searchText[type=search]:focus {
+	color: black;
+	font-family: 'Raleway';
+	font-size: 12px;
+}
+#search button {
+	width: 30px;
+	height: 30px;
+	padding: 0px;
+	border: none;
+	background-color: white;
+	outline: none;
+}
+#searchFromMenu {
+	background-color: rgb(235,180,4);
+	padding-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#searchTextFromMenu {
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	border-radius: 0px;
+	-webkit-appearance: none;
+	padding-left: 5px;
+	margin: 0px;
+	width: 170px;
+	height: 30px;
+	outline: none;
+	position: relative;
+	top: -5px;
+}
+#searchTextFromMenu[placeholder] {
+	color: gray;
+	font-family: 'Raleway-Italic';
+	font-size: 12px;
+}
+#searchTextFromMenu[type=search]:focus {
+	color: black;
+	font-family: 'Raleway';
+	font-size: 12px;
+}
+#searchButtonFromMenu{
+	width: 30px;
+	height: auto;
+}
+#searchFromMenu button{
+	width: 30px;
+	height: 30px;
+	padding: 0px;
+	border: none;
+	background-color: rgb(235,180,4);
+	outline: none;
+	position: relative;
+	left: 5px;
+	top: 6px;
+}
+nav a {
+	text-decoration: none;
+}
+#sparktionaryImageFromMenu, #communityImageFromMenu {
+	width: 30px;
+	height: auto;
+}
+.menuItem {
+	font-family: 'Raleway';
+	font-size: 14px;
+	position: relative;
+	left: 10px;
+	top: -10px;
+}
+nav footer h6 {
+	color: white;
+	text-align: center;
+	font-family: 'Raleway';
+	margin: 0px;
+	padding: 0px;
+}
+nav {
+	position: relative;
+}
+nav footer {
+	position: absolute;
+	bottom: 20px;
+	left: 0px;
+	right: 0px;
+	padding: 0px;
+	margin: 0px;
+}
+#socialMediaLinks a {
+	margin: 0px;
+	padding: 0px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+}
+#socialMediaLinks a img {
+	width: 24px;
+	height: 24px;
+	border: 1px solid #FFFFFF;
+}
+nav footer div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-bottom: 50px;
+}
+main p {
+	font-family: 'OpenSans';
+	color: #565051;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#content {
+	padding-top: 50px;
+	background-color: white;
+	padding-bottom: 40px;
+}
+#bubble-chart {
+	width: 100vw;
+	height: 100vh;
+}
+.credits {
+	color: lightgray;
+	margin-top: 0px;
+	text-align: right;
+	font-size: 0.8em;
+	margin-bottom: 10px;
+}
+.credits a {
+	font-family: "Raleway-SemiBold";
+	text-decoration: none;
+	color: silver;
+}
+.credits p {
+	margin-bottom: 5px;
+}
+#line{
+	width: 25vw;
+	border-bottom: 2px solid rgb(235,180,4);
+	margin-left: 10px;
+}
+#footnote {
+	margin-top: 6px;
+}
+#footnote p {
+	font-family: 'OpenSans-Italic';
+	font-size: 0.8em;
+	color: silver;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+.strong {
+	font-family: 'OpenSans-SemiBoldItalic';
+}
+#footnote p a {
+	font-family: 'Raleway-SemiBoldItalic';
+	color: darkgray;
+	text-decoration: none;
+}
+#footer {
+	background-color: rgb(235,180,4);
+	padding-top: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+}
+#logo-footer {
+	width: 120px;
+	height: auto;
+	position: relative;
+	float: left;
+}
+#two-columns {
+	width: 100%;
+	padding-bottom: 20px;
+}
+#details {
+	width: calc(100% - 120px);
+	position: relative;
+	float: left;
+}
+#details a {
+ text-decoration: none;
+}
+#details p {
+	color: white;
+	font-family: 'OpenSans-Light';
+	margin-bottom: 0px;
+	margin-top: 0px;
+	font-size: 12px;
+}
+.details-label {
+	font-family: 'Raleway-Bold';
+	color: white;
+	font-size: 14px;
+}
+.details-shortcuts {
+	font-family: 'Raleway-SemiBold';
+	color: white;
+}
+.center-label {
+	text-align: center;
+}
+#footer-socials {
+	display: flex;
+	justify-content: center;
+}
+#footer-socials a {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+#footer-socials a img {
+	width: 30px;
+	height: auto;
+}
+#socials-label {
+	font-family: 'Raleway-Light';
+	color: white;
+	margin-bottom: 5px;
+	margin-top: 20px;
+}
+#copyright {
+	font-family: 'Raleway-Light';
+	color: white;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+@media screen and (max-width: 767px) { /* mobile */
+	header {
+		text-align: center;
+		position: fixed;
+	}
+	#logo {
+		width: 120px;
+		padding-left: 0px;
+	}
+	#signin {
+		font-size: 12px;
+		position: fixed;
+		top: 10px;
+		right: 0px;
+	}
+	#menu {
+		display: initial;
+		float: left;
+		text-decoration: none;
+		background: url(../img/Menu%20Button.png);
+		background-size: 30px;
+		background-repeat: no-repeat;
+		background-position: 10px 15px;
+		width: 30px;
+		height: 30px;
+		padding-left: 20px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		border-right: 1px solid #EEEEEE;
+		position: fixed;/*relative;*/
+		/*top: -55px;*/
+		top: 5px;
+		z-index: 3;
+		-webkit-user-select: none;
+		-webkit-touch-callout: none;
+		background-color: white;
+	}
+	#menu:hover {
+		background: url(../img/Menu%20Button.png);
+		background-size: 30px;
+		background-repeat: no-repeat;
+		background-position: 10px 15px;
+		background-color: #EEEEEE;
+	}
+	#menu:focus {
+		background: url(../img/Menu%20Button%20Active.png);
+		background-size: 30px;
+		background-repeat: no-repeat;
+		background-position: 10px 15px;
+		background-color: #EEEEEE;
+	}
+	#menu:active {
+		background: url(../img/Menu%20Button.png);
+		background-size: 30px;
+		background-repeat: no-repeat;
+		background-position: 10px 15px;
+		background-color: #DDDDDD;
+	}
+	#menu:visited {
+		background: url(../img/Menu%20Button.png);
+		background-size: 30px;
+		background-repeat: no-repeat;
+		background-position: 10px 15px;
+		background-color: white;
+	}
+	#community {
+		display: none;
+	}
+	#sparktionary {
+		display: none;
+	}
+	#search {
+		display: none;
+	}
+	body {
+		overflow: hidden;
+		width: 100vw;
+		height: 100vh;
+	}
+	main {
+		overflow: auto;
+		overflow-x: hidden;
+		overflow-y: scroll;
+		width: 100vw;
+		height: 100vh;
+	}
+}
+/* Orientation Lock */
+@media screen and (min-width: 320px) and (max-width: 767px) and (orientation: landscape) {
+  html {
+    transform: rotate(-90deg);
+    transform-origin: left top;
+    width: 100vh;
+    overflow-x: hidden;
+    position: absolute;
+    top: 100%;
+    left: 0;
+  }
+  body {
+  	height: 100vw;
+  	width: 100vh;
+  }
+  #searchTextFromMenu {
+		width: 130px;
+	}
+	#searchFromMenu button{
+		left: 0px;
+	}
+	main {
+		height: 100vw;
+		width: 100vh;
+	}
+}
+/* ----------- iPhone 4 and 4S ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Portrait */
+@media only screen 
+  /*and (min-device-width: 320px) 
+  and (max-device-width: 480px)*/
+  and (width: 320px)
+  and (max-device-height: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+}
+
+/* Landscape */
+@media only screen 
+  /*and (min-device-width: 320px) 
+  and (max-device-width: 480px)*/
+  and (width: 320px)
+  and (max-device-height: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+}
+
+/* ----------- iPhone 5 and 5S ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+}
+
+/* Portrait */
+@media only screen 
+  /*and (min-device-width: 320px) 
+  and (max-device-width: 568px)*/
+  and (width: 320px)
+  and (max-device-height: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+}
+
+/* Landscape */
+@media only screen 
+  /*and (min-device-width: 320px) 
+  and (max-device-width: 568px)*/
+  and (width: 320px)
+  and (max-device-height: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+}
+
+/* ----------- iPhone 6 ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+}
+
+/* Portrait */
+@media only screen 
+  /*and (min-device-width: 375px) 
+  and (max-device-width: 667px)*/
+	and (width: 375px)
+  and (max-device-height: 667px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+}
+
+/* Landscape */
+@media only screen 
+  /*and (min-device-width: 375px) 
+  and (max-device-width: 667px)*/
+	and (width: 375px)
+  and (max-device-height: 667px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+}
+
+/* ----------- iPhone 6+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+}
+
+/* Portrait */
+@media only screen 
+  /*and (min-device-width: 414px) 
+  and (max-device-width: 736px)*/
+	and (width: 414px)
+  and (max-device-height: 736px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+}
+
+/* Landscape */
+@media only screen 
+  /*and (min-device-width: 414px) 
+  and (max-device-width: 736px)*/
+	and (width: 414px)
+  and (max-device-height: 736px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) { 
+}
+/* ----------- iPad mini ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* Portrait */
+@media only screen 
+  /*and (min-device-width: 768px) 
+  and (max-device-width: 1024px)*/
+  and (width: 768px)
+  and (max-device-height: 1024px)
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+}
+
+/* ----------- iPad 1 and 2 ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+}
+
+/* Portrait */
+@media only screen 
+  /*and (min-device-width: 768px) 
+  and (max-device-width: 1024px)*/
+  and (width: 768px)
+  and (max-device-height: 1024px)
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+}
+
+/* ----------- iPad 3 and 4 ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+}
+
+/* Portrait */
+@media only screen 
+  /*and (min-device-width: 768px) 
+  and (max-device-width: 1024px)*/
+  and (width: 768px)
+  and (max-device-height: 1024px)
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
