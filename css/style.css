@@ -1,0 +1,180 @@
+/* Raleway Fonts */
+@font-face {
+	font-family: 'Raleway';
+	src: url('./Raleway/Raleway-Regular.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Thin';
+	src: url('./Raleway/Raleway-Thin.ttf');
+}
+@font-face {
+	font-family: 'Raleway-ThinItalic';
+	src: url('./Raleway/Raleway-ThinItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-ExtraLight';
+	src: url('./Raleway/Raleway-ExtraLight.ttf');
+}
+@font-face {
+	font-family: 'Raleway-ExtraLightItalic';
+	src: url('./Raleway/Raleway-ExtraLightItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Light';
+	src: url('./Raleway/Raleway-Light.ttf');
+}
+@font-face {
+	font-family: 'Raleway-LightItalic';
+	src: url('./Raleway/Raleway-LightItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Italic';
+	src: url('./Raleway/Raleway-Italic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Medium';
+	src: url('./Raleway/Raleway-Medium.ttf');
+}
+@font-face {
+	font-family: 'Raleway-MediumItalic';
+	src: url('./Raleway/Raleway-MediumItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-SemiBold';
+	src: url('./Raleway/Raleway-SemiBold.ttf');
+}
+@font-face {
+	font-family: 'Raleway-SemiBoldItalic';
+	src: url('./Raleway/Raleway-SemiBoldItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Bold';
+	src: url('./Raleway/Raleway-Bold.ttf');
+}
+@font-face {
+	font-family: 'Raleway-BoldItalic';
+	src: url('./Raleway/Raleway-BoldItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-ExtraBold';
+	src: url('./Raleway/Raleway-ExtraBold.ttf');
+}
+@font-face {
+	font-family: 'Raleway-ExtraBoldItalic';
+	src: url('./Raleway/Raleway-ExtraBoldItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Black';
+	src: url('./Raleway/Raleway-Black.ttf');
+}
+@font-face {
+	font-family: 'Raleway-BlackItalic';
+	src: url('./Raleway/Raleway-BlackItalic.ttf');
+}
+body {
+	margin: 0px;
+	background: url("../img/background.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+}
+#logo {
+	width: 120px;
+	height: auto;
+}
+header {
+	width: 100vw;
+	height: 60px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 10;
+	background-color: white;
+	border-top: 2px solid #FFCC00;
+	border-bottom: 1px solid #EEEEEE;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#overlay {
+	background-image: url("../img/dot.png");
+	width: 100vw;
+	height: 100vh;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	overflow-y: hidden;
+}
+#gradient {
+	background: -webkit-radial-gradient(ellipse farthest-side at center center, rgba(0,0,0,1), rgba(0,0,0,0));
+	background: radial-gradient(ellipse farthest-side at center center, rgba(0,0,0,1), rgba(0,0,0,0));
+	width: 100vw;
+	height: 100vh;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	overflow-y: hidden;
+}
+/*#timer{
+	position: fixed;
+	top: 45%;
+	left: 50%;
+	transform: translateX(-50%);
+}
+#timer > div {
+	display: inline-block;
+	color: white;
+	margin: 35px;
+	padding: 10px;
+	width: 5vw;
+	border: solid 2px white;
+	background-color: rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	box-shadow: 0px 0px 5px #fff;
+}*/
+h1, h2, h3, h5 {
+	margin: 0px;
+	text-align: center;
+}
+/*h1 {
+	font-family: 'Raleway-ExtraBold';
+}
+h5 {
+	font-family: 'Raleway-SemiBold';
+}*/
+#message {
+	color: white;
+	position: fixed;
+	z-index: 10;
+	top: 40%;
+	left: 50%;
+	transform: translateX(-50%);
+}
+h2 {
+	font-family: 'Raleway-ExtraBold';
+	font-size: 60px;
+}
+h3 {
+	font-family: 'Raleway';
+	font-size: 30px;
+}
+footer {
+	width: 100vw;
+	height: 40px;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	text-align: center;
+}
+footer a {
+	margin: 5px;
+}
+footer a img {
+	background-color: white;
+	border-radius: 25px;
+}
