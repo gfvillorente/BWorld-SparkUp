@@ -1,0 +1,734 @@
+/* Raleway Fonts */
+@font-face {
+	font-family: 'Raleway';
+	src: url('./Raleway/Raleway-Regular.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Thin';
+	src: url('./Raleway/Raleway-Thin.ttf');
+}
+@font-face {
+	font-family: 'Raleway-ThinItalic';
+	src: url('./Raleway/Raleway-ThinItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-ExtraLight';
+	src: url('./Raleway/Raleway-ExtraLight.ttf');
+}
+@font-face {
+	font-family: 'Raleway-ExtraLightItalic';
+	src: url('./Raleway/Raleway-ExtraLightItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Light';
+	src: url('./Raleway/Raleway-Light.ttf');
+}
+@font-face {
+	font-family: 'Raleway-LightItalic';
+	src: url('./Raleway/Raleway-LightItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Italic';
+	src: url('./Raleway/Raleway-Italic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Medium';
+	src: url('./Raleway/Raleway-Medium.ttf');
+}
+@font-face {
+	font-family: 'Raleway-MediumItalic';
+	src: url('./Raleway/Raleway-MediumItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-SemiBold';
+	src: url('./Raleway/Raleway-SemiBold.ttf');
+}
+@font-face {
+	font-family: 'Raleway-SemiBoldItalic';
+	src: url('./Raleway/Raleway-SemiBoldItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Bold';
+	src: url('./Raleway/Raleway-Bold.ttf');
+}
+@font-face {
+	font-family: 'Raleway-BoldItalic';
+	src: url('./Raleway/Raleway-BoldItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-ExtraBold';
+	src: url('./Raleway/Raleway-ExtraBold.ttf');
+}
+@font-face {
+	font-family: 'Raleway-ExtraBoldItalic';
+	src: url('./Raleway/Raleway-ExtraBoldItalic.ttf');
+}
+@font-face {
+	font-family: 'Raleway-Black';
+	src: url('./Raleway/Raleway-Black.ttf');
+}
+@font-face {
+	font-family: 'Raleway-BlackItalic';
+	src: url('./Raleway/Raleway-BlackItalic.ttf');
+}
+body {
+	margin: 0px;
+	background: url("../img/background.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+}
+#logo {
+	width: 120px;
+	height: auto;
+}
+header {
+	width: 100vw;
+	height: 60px;
+	position: fixed;
+	z-index: 10;
+	background-color: white;
+	border-top: 2px solid #FFCC00;
+	border-bottom: 1px solid #EEEEEE;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#overlay {
+	background-image: url("../img/dot.png");
+	width: 100vw;
+	height: 100vh;
+	opacity: 0.50;
+	filter: alpha(opacity=50);
+}
+#signup {
+	background-color: rgb(228,180,28);
+	position: fixed;
+	z-index: 5;
+	width: 25vw;
+	height: 25vh;
+	top: 35%;
+	left: 37.5%;
+	border-radius: 15px;
+}
+/*Laptop*/
+/* ----------- Non-Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+		#signup {
+		}
+}
+
+/* ----------- Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) { 
+		#signup {
+		}
+}
+/*Tablet*/
+/* ----------- iPad mini ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+		#signup {
+		}
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+		#signup {
+		}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+		#signup {
+		}
+}
+
+/* ----------- iPad 1 and 2 ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+		#signup {
+		}
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+		#signup {
+		}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+		#signup {
+		}
+}
+
+/* ----------- iPad 3 and 4 ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#signup {
+		}
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#signup {
+			width: 50vw;
+			height: 25vh;
+			top: 35%;
+			left: 25%;
+		}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#signup {
+			width: 50vw;
+			height: 25vh;
+			top: 35%;
+			left: 25%;
+		}
+}
+/* ----------- Galaxy Tab 10.1 ----------- */
+
+/* Portrait and Landscape */
+@media 
+  (min-device-width: 800px) 
+  and (max-device-width: 1280px) {
+		#signup {
+		}
+}
+
+/* Portrait */
+@media 
+  (max-device-width: 800px) 
+  and (orientation: portrait) { 
+		#signup {
+			width: 50vw;
+			height: 20vh;
+			top: 35%;
+			left: 25%;
+		}
+}
+
+/* Landscape */
+@media 
+  (max-device-width: 1280px) 
+  and (orientation: landscape) { 
+		#signup {
+		}
+}
+/* ----------- Asus Nexus 7 ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 601px) 
+  and (device-height: 906px) 
+  and (-webkit-min-device-pixel-ratio: 1.331) 
+  and (-webkit-max-device-pixel-ratio: 1.332) {
+		#signup {
+		}
+}
+
+/* Portrait */
+@media screen 
+  and (device-width: 601px) 
+  and (device-height: 906px) 
+  and (-webkit-min-device-pixel-ratio: 1.331) 
+  and (-webkit-max-device-pixel-ratio: 1.332) 
+  and (orientation: portrait) {
+		#signup {
+		}
+}
+
+/* Landscape */
+@media screen 
+  and (device-width: 601px) 
+  and (device-height: 906px) 
+  and (-webkit-min-device-pixel-ratio: 1.331) 
+  and (-webkit-max-device-pixel-ratio: 1.332) 
+  and (orientation: landscape) {
+		#signup {
+		}
+}
+/* ----------- Kindle Fire HD 7" ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 800px) 
+  and (max-device-width: 1280px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+		#signup {
+		}
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 800px) 
+  and (max-device-width: 1280px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) 
+  and (orientation: portrait) {
+		#signup {
+		}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 800px) 
+  and (max-device-width: 1280px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) 
+  and (orientation: landscape) {
+		#signup {
+		}
+}
+
+/* ----------- Kindle Fire HD 8.9" ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+		#signup {
+		}
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) 
+  and (orientation: portrait) {
+		#signup {
+			width: 50vw;
+			height: 20vh;
+			top: 35%;
+			left: 25%;
+		}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) 
+  and (orientation: landscape) {
+		#signup {
+		}
+}
+/*Phones*/
+/* ----------- iPhone 4 and 4S ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#signup {
+		}
+}
+
+/* Portrait iPhone 4/s */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+		#signup {
+			width: 80vw;
+			height: 35vh;
+			top: 35%;
+			left: 10%;
+		}
+		#facebook-login {
+			width: 95%;
+			padding: 5px;
+			margin: auto;
+		}
+		#facebook-text {
+			font-size: 12px;
+			font-family: 'Raleway-Light'
+		}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+		#signup {
+			width: 60vw;
+			height: 50vh;
+			top: 35%;
+			left: 20%;
+		}
+		#facebook-login {
+			width: 95%;
+			padding: 5px;
+			margin: auto;
+		}
+		#facebook-text {
+			font-size: 15px;
+			font-family: 'Raleway-Light'
+		}
+}
+
+/* ----------- iPhone 5 and 5S ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#signup {
+		}
+}
+
+/* Portrait iPhone 5/s */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+		#signup {
+			width: 80vw;
+			height: 35vh;
+			top: 35%;
+			left: 10%;
+		}
+		#facebook-login {
+			width: 95%;
+			padding: 5px;
+			margin: auto;
+		}
+		#facebook-text {
+			font-size: 12px;
+			font-family: 'Raleway-Light'
+		}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+		#signup {
+			width: 60vw;
+			height: 50vh;
+			top: 35%;
+			left: 20%;
+		}
+		#facebook-login {
+			width: 95%;
+			padding: 5px;
+			margin: auto;
+		}
+		#facebook-text {
+			font-size: 15px;
+			font-family: 'Raleway-Light'
+		}
+}
+
+/* ----------- iPhone 6 ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+		#signup {
+		}
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+		#signup {
+			width: 80vw;
+			height: 30vh;
+			top: 35%;
+			left: 10%;
+		}
+		#facebook-login {
+			width: 95%;
+			padding: 5px;
+			margin: auto;
+		}
+		#facebook-text {
+			font-size: 15px;
+			font-family: 'Raleway-Light'
+		}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+		#signup {
+			width: 60vw;
+			height: 50vh;
+			top: 35%;
+			left: 20%;
+		}
+		#facebook-login {
+			width: 95%;
+			padding: 5px;
+			margin: auto;
+		}
+		#facebook-text {
+			font-size: 15px;
+			font-family: 'Raleway-Light'
+		}
+}
+
+/* ----------- iPhone 6+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+		#signup {
+		}
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+		#signup {
+			width: 75vw;
+			height: 25vh;
+			top: 35%;
+			left: 12.5%;
+		}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) { 
+		#signup {
+			width: 60vw;
+			height: 40vh;
+			top: 35%;
+			left: 20%;
+		}
+}
+/* ----------- Galaxy S3 ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) {
+		#signup {
+		}
+}
+
+/* Portrait */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) 
+  and (orientation: portrait) {
+		#signup {
+		}
+}
+
+/* Landscape */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) 
+  and (orientation: landscape) {
+		#signup {
+		}
+}
+
+/* ----------- Galaxy S4 ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) {
+		#signup {
+		}
+}
+
+/* Portrait */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+		#signup {
+		}
+}
+
+/* Landscape */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: landscape) {
+		#signup {
+		}
+}
+
+/* ----------- Galaxy S5 ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) {
+		#signup {
+		}
+}
+
+/* Portrait */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+		#signup {
+		}
+}
+
+/* Landscape */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: landscape) {
+		#signup {
+		}
+}
+/* ----------- HTC One ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) {
+		#signup {
+		}
+}
+
+/* Portrait */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+		#signup {
+		}
+}
+
+/* Landscape */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: landscape) {
+		#signup {
+		}
+}
+#label {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin-top: 25px;
+}
+#label > div {
+	border: 1px solid white;
+	color: white;
+	border-radius: 2px;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: 'Raleway-Light';
+	margin-bottom: 40px; 
+}
+#label > :first-child {
+	background-color: white;
+	color: rgb(228,180,28);
+	font-weight: bolder;
+}
+#facebook-login {
+	background-color: #3B5998;
+	width: 65%;
+	padding: 5px;
+	margin: auto;
+}
+#facebook-login a {
+	display: inline-block;
+	text-decoration: none;
+	width: -moz-calc(100% - 25px);
+	width: -webkit-calc(100% - 25px);
+	width: -o-calc(100% - 25px);
+	width: calc(100% - 25px);
+}
+#facebook-text {
+	color: white;
+	font-family: 'Raleway-SemiBold';
+}
