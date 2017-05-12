@@ -509,6 +509,19 @@ main img {
 	text-decoration: none;
 	color: rgb(235,180,4);
 }
+h1{
+	font-family: 'Raleway-ExtraBold';
+	margin-left: 10px;
+	margin-right: 10px;
+	line-height: 30px;
+}
+.strong {
+	font-family: 'Raleway-SemiBold';
+}
+ol {
+	font-family: 'OpenSans';
+	color: #565051;
+}
 #cover {
 	background: url(../img/empanadilla_green_food_recipe_chicken_vegetables-empanada-jolly-bake-food.jpg) no-repeat center center;
 	width: 100vw;
